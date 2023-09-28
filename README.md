@@ -5,7 +5,8 @@
 ## MODELAGEM LÓGICA
 <img width="617" alt="image" src="https://github.com/Georgegomes1918/MODELAGEM/assets/142853919/f753852f-64b7-4835-a1c6-7073acee3f1a">
 
-'''SQL
+```SQL
+
 CREATE TABLE Alunos 
 ( 
  Codigo_aluno VARCHAR(10) PRIMARY KEY,  
@@ -45,5 +46,5 @@ INSERT INTO alunos VALUES (2, 'bbbb','a@fjfj','DA Analytics','3333333',2),
 						  (3, 'Aluno 4','a@fjfj','DA Analytics','3333333',1),
 					      (5, 'Aluno 5','a@fjfj','DA Analytics','3333333',2),
 						  (4, 'Aluno 6','a@fjfj','Marketing','3333333',2);
-        '''
+```
 
